@@ -1,0 +1,13 @@
+
+*{
+  text-align: center;
+  background-color: rgb(127, 217, 255);
+}
+.button{
+  padding: 15px 32px;
+  background-color: #4c7aaf;
+  font-size: 30px;
+  font-family: 'Secular One', sans-serif;
+ color:whitesmoke
+
+}
